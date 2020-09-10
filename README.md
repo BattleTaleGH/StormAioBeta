@@ -8,6 +8,17 @@ Storm AIO is an All in One assembly made for [Ensoulsharp](https://ensoulsharp.c
 It's a merged project of well known Community Assemblys, [MightyAIO](https://github.com/noahdev2/MightyAio) & [NoobAIO](https://github.com/WhoAskedPissRandom/NoobAIO)
 
 
+Champions:
+Akali, Ashe, Cho'Gath, Dr.Mundo, Garen, Kog'Maw, Lucian, Maokai, Rengar, Urgot, Warwick, Yone, Yorick, Zed , twitch , Vladimir 
+
+Utilities:
+ArrowDrawer
+AutoLeveler
+Emote on Event
+Rundown
+Skinchanger
+StarterItem
+
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
